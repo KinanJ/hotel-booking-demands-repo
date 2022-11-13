@@ -41,10 +41,3 @@ Finally, I performed some multivariate explorations. I found that the average le
 ## Resources
 - [Hotel bookings demand dataset](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand)
 - [Data description](https://www.sciencedirect.com/science/article/pii/S2352340918315191)
-
-## References
-
-I referred to the following links to solve some issues during the project.
-- https://stackoverflow.com/questions/50663700/convert-year-and-month-name-into-datetime-column-for-pandas-dataframe
-- https://stackoverflow.com/questions/47136436/python-pandas-convert-value-counts-output-to-dataframe
-- https://stackoverflow.com/questions/20250771/remap-values-in-pandas-column-with-a-dict-preserve-nans
