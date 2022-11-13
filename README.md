@@ -28,15 +28,13 @@ Finally, I performed some multivariate explorations. I found that the average le
 
 - Results showed that was a gradual increase in reservations through out the years with a slight dip towards mid 2017. Overall, there were more reservations for city hotels than resort hotels.
 
-- Investigating demand during the month reveals that; daily demand of "Customers" tended to be more volatile compared to "Subscribers"; and that peaks and off-peak days are different for the two groups.
-
 - Correlation between the length of stay and the average daily rates was very weak. The rates had close to no effect in the length of stay. Further analysis supported the earlier finding where there was close to zero correlation between hotel rate and length of stay in both city and resort hotels.
 
 - It was evident that reservations made through Offline travel agents and tour operators resulted in guests staying longer. On average, these customers stayed for 6 days. Guests that made the reservations themselves stayed only half as much which was around 3 days on average.
 
 - In resort hotels, contract customer types stayed twice as long as compared to other customer types. However, in city hotels, Transient customers slightly stayed longer than the other types.
 
-- Exploration done to analyze proportion of the guests nationalities showed that Portugese nationals were the ones with most number of reservations followed by citizens of Great Britain and France.
+- Exploration done to analyze proportion of the guests' nationalities showed that Portugese nationals were the ones with most number of reservations followed by citizens of Great Britain and France.
 
 ## Resources
 - [Hotel bookings demand dataset](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand)
